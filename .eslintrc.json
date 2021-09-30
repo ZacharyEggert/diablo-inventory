@@ -9,7 +9,7 @@
         "quotes": ["warn", "single"],
         "semi": ["warn", "always"],
         "no-unused-vars": ["warn", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }],
-        "no-console": ["warn", { "allow": ["warn", "error"] }],
+        "no-console": ["warn", { "allow": ["warn", "error", "debug", "info"] }],
         "arrow-body-style": ["warn", "as-needed"],
         "camelcase": ["warn", { "properties": "always" }],
         "no-unused-expressions": ["warn", { "allowShortCircuit": true, "allowTernary": true }],
