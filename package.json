@@ -36,7 +36,7 @@
         "prettier-eslint": "^13.0.0"
     },
     "jshintConfig": {
-        "esversion": 6
+        "esversion": 12
     },
     "engines": {
         "node": ">=8.0.0"
